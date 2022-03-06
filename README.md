@@ -4,7 +4,7 @@
 <ul>
 <li>Liguagem utilizada: JavaScript.</li>
 <li>Execução do código deve ser feita através do node.</li>
-<li> O link para o código fonte esta no título de cada questão.</li>
+<li> O link para o código fonte está no título de cada questão.</li>
 </ul>
 <hr>
 
