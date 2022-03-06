@@ -1,5 +1,7 @@
 
-# **Repositório do Desafio da Academia Técnica Capgemini 2022**
+<img src="https://capgemini.proway.com.br/assets/img/logo-capgemini.png" height="50px" style="margin-left:250px">
+
+# **Desafio da Academia Técnica Capgemini 2022**
 
 <ul>
 <li>Liguagem utilizada: JavaScript.</li>
